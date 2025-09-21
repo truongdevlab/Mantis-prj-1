@@ -13,3 +13,7 @@ Nội dung công việc gồm:
 ```
 git checkout app/realchat
 ```
+# Dự án 2
+```
+git checkout huy-agent
+```
