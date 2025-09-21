@@ -1,3 +1,4 @@
 .env
 Model/textModel/__pycache__/
 Model/textModel/history.py
+Model/textModel/history.json
